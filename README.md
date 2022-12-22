@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @embeddedsystemdev but friends call me Mietek :)
-- 👀 I’m interested in embedded systems xd
 - 🌱 I’m currently learning C, C++, PCB design , Linux and ... everything needed to be better software engineer.
-- 📫 How to reach me embeddedsystemdev@gmail.com
+- 📫 You can reach me at embeddedsystemdev@gmail.com
 
 Repositories on this github account are my playground, here I am learning, training and testing stuff. Beside of that I have my regular job in corporate world. Professionaly I was mainly focused on telecomm projects which base was on Linux OS on MIPS platform. Also I am familiar with microprocessors from ARM family, especially STM32 MCU.
 
